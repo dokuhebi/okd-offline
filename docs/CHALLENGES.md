@@ -8,7 +8,7 @@ OKD, as with most docker/container based applications, assume access to the inte
 
 While the easiest method for transfer of an operational OKD system to an air-gapped network would be to export and transfer a virtual machine, the size of an entire virtual machine may be prohibitive to actually transfer.  This may be a moot point if the containers being transferred are significantly larger than the underlying software.
 
-## Transferrability
+## Transferability
 
 The solution needs to be usable across any platform supported by OKD.  This may not happen initially, but will be a goal.
 
